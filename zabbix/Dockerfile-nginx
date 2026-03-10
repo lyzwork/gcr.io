@@ -1,5 +1,0 @@
-FROM zabbix/zabbix-web-nginx-pgsql:ubuntu-latest
-MAINTAINER yaoyuanmeng <1390331234@qq.com>
-
-
-
